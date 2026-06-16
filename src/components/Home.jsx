@@ -60,7 +60,7 @@ const Home = () => {
         className="w-full max-w-3xl bg-gray-800 shadow-2xl rounded-2xl p-6 border border-gray-700"
       >
         <h1 className="text-3xl font-bold text-white mb-6 text-center">
-          Create New Paste
+          Create New Note
         </h1>
 
         <div className="flex flex-col sm:flex-row gap-4">

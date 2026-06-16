@@ -39,7 +39,7 @@ const Pastes = () => {
       <div className="max-w-3xl mx-auto mb-8">
         <input
           type="search"
-          placeholder="Search your pastes..."
+          placeholder="Search your notes..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           className="w-full px-5 py-3 rounded-2xl bg-gray-800 border border-gray-700 outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-white placeholder-gray-400 shadow-lg"
